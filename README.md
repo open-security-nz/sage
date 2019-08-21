@@ -1,27 +1,26 @@
 # SAGE 
-## What is SAGE?
 
-You can use the [editor on GitHub](https://github.com/open-security-nz/sage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sage is an open source, free-to-use diagnostic framework for measuring the technical independence of people.
 
 ## Project Aims?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* To provide a simple to use, repeatable tool for understanding and classifying the security needs of people.
+* To help systems designers, developer and security specialists to understand the specific technical behaviours and security needs of people.
+* To help build security controls, tools and approaches that are tailored to the people using them rather than the technology at hand.
 
 ## FAQ
 
 #### Is this a commercial product? Are you trying to sell me something? What's the catch?
 
-No.
+No. This is a non-commercial, open source project licensed under [license] (license.md)
 
 #### What is a diagnostic framework?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A reusable tool for measuring characteristics of a person or group. We use diagnostic tools in all sorts of places, particularly in the health, psychology and sociology domains.
 
 #### What is technical independence?
 
-Words
+Technical independence is a measure of how able a person is to operate in a digital space, unassisted. It is measured on a scale from the most independent (requiring little to no support) to the least independent (requiring regular support for every digital interaction).
 
 #### How do I use SAGE?
 
@@ -30,4 +29,4 @@ Read the docs
 
 ## Getting Involved
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
