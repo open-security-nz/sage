@@ -1,32 +1,27 @@
-## Welcome to GitHub Pages
+# SAGE 
+## What is SAGE?
 
 You can use the [editor on GitHub](https://github.com/open-security-nz/sage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### What is a diagnostic framework?
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### What is technical independence?
 
-# Header 1
-## Header 2
-### Header 3
+Words
 
-- Bulleted
-- List
+## What are we trying to achieve?
 
-1. Numbered
-2. List
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-**Bold** and _Italic_ and `Code` text
+## FAQ
 
-[Link](url) and ![Image](src)
-```
+- Is this a commercial product? Are you trying to sell me something? What's the catch?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+No.
 
 ### Jekyll Themes
 
