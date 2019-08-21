@@ -5,15 +5,7 @@ You can use the [editor on GitHub](https://github.com/open-security-nz/sage/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### What is a diagnostic framework?
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-### What is technical independence?
-
-Words
-
-## What are we trying to achieve?
+## Project Aims?
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -23,10 +15,19 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 No.
 
-### Jekyll Themes
+- What is a diagnostic framework?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/open-security-nz/sage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-### Support or Contact
+- What is technical independence?
+
+Words
+
+- How do I use SAGE?
+
+Read the docs
+
+
+### Getting Involved
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
