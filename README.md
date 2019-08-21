@@ -11,23 +11,23 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ## FAQ
 
-- Is this a commercial product? Are you trying to sell me something? What's the catch?
+#### Is this a commercial product? Are you trying to sell me something? What's the catch?
 
 No.
 
-- What is a diagnostic framework?
+#### What is a diagnostic framework?
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-- What is technical independence?
+#### What is technical independence?
 
 Words
 
-- How do I use SAGE?
+#### How do I use SAGE?
 
 Read the docs
 
 
-### Getting Involved
+## Getting Involved
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
