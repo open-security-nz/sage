@@ -29,4 +29,9 @@ Read the docs
 
 ## Getting Involved
 
+Sage is an open source, volunteer led project. If you would like to get involved, have a suggestion to make or want to otherwise be an awesome contributor, there are a few ways to do it!
+
+* Make a change and submit a pull request here. If you're new to open source, you can find some awesome help and advice [here](https://www.firsttimersonly.com/)
+* Drop an email to support@opensecurity.nz
+
 
