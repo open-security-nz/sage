@@ -12,7 +12,7 @@ Sage is an open source, free-to-use diagnostic framework for measuring the techn
 
 #### Is this a commercial product? Are you trying to sell me something? What's the catch?
 
-No. This is a non-commercial, open source project licensed under [license] (license.md)
+No. This is a non-commercial, open source project licensed under the [Creative Commons Attribution Share Alike 4.0 International](https://github.com/open-security-nz/sage/blob/master/license.md) license.
 
 #### What is a diagnostic framework?
 
