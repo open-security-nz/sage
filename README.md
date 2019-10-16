@@ -1,11 +1,11 @@
 # SAGE 
 
-Sage is an open source, free-to-use diagnostic framework for measuring the technical independence of people.
+Sage is an open source, free-to-use diagnostic framework for measuring the digital independence of people.
 
 ## Project Aims?
 
 * To provide a simple to use, repeatable tool for understanding and classifying the security needs of people.
-* To help systems designers, developer and security specialists to understand the specific technical behaviours and security needs of people.
+* To help systems designers, developers and security specialists to understand the specific digital behaviours, challenges and security needs of different groups.
 * To help build security controls, tools and approaches that are tailored to the people using them rather than the technology at hand.
 
 ## FAQ
@@ -18,13 +18,9 @@ No. This is a non-commercial, open source project licensed under the [Creative C
 
 A reusable tool for measuring characteristics of a person or group. We use diagnostic tools in all sorts of places, particularly in the health, psychology and sociology domains.
 
-#### What is technical independence?
+#### What is digital independence?
 
-Technical independence is a measure of how able a person is to operate in a digital space, unassisted. It is measured on a scale from the most independent (requiring little to no support) to the least independent (requiring regular support for every digital interaction).
-
-#### How do I use SAGE?
-
-Read the docs
+digital independence is a measure of how able a person is to operate in a digital space, unassisted. It is measured on a scale from the fully independent (requiring little to no support) to the fully dependent (requiring a proxy for every digital interaction).
 
 
 ## Getting Involved
