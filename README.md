@@ -2,6 +2,8 @@
 
 Sage is an open source, free-to-use diagnostic framework for measuring the digital independence of people.
 
+You can download the paper based assessment from this project or take the online version at https://safestack.typeform.com/to/mBMXkJ
+
 ## Project Aims?
 
 * To provide a simple to use, repeatable tool for understanding and classifying the security needs of people.
